@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
- * add - adding two integers
- * Return: sum of integers
+ * add - add two integers
+ * @a: two integer arguments
+ * @b: two integer arguments
+ * Return: sum
  */
 
 int add(int a, int b)
